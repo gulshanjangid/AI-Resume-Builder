@@ -31,7 +31,7 @@ Follow these instructions to get the project up and running on your local machin
 
 - [Node.js](https://nodejs.org/) (v18 or higher)
 - [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/)
-
+## Live link :- https://ai-resume-builder-epbj.vercel.app/
 ### Installation
 
 1.  **Clone the repository:**
